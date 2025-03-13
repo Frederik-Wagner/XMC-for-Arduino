@@ -1,0 +1,3 @@
+[submodule "tests/arduino-core-tests"]
+	path = tests/arduino-core-tests
+	url = https://github.com/Frederik-Wagner/arduino-core-tests.git
